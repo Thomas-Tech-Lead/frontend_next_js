@@ -1,0 +1,54 @@
+{
+    
+    "data": [ 
+        {
+            "id": 8,
+            "image_link": "",
+            "title": "Noteworthy technology acquisitions 2021", 
+            "description": "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
+        },
+        {
+            "id": 7,
+            "image_link": "",
+            "title": "Noteworthy technology acquisitions 2022", 
+            "description": "Here are the biggest enterprise technology acquisitions of 2022 so far, in reverse chronological order."
+        },
+        {
+            "id": 6,
+            "image_link": "",
+            "title": "Technology acquisitions 2023", 
+            "description": "Here are the biggest enterprise technology acquisitions of 2023 so far, in reverse chronological order."
+        },
+        {
+            "id": 5,
+            "image_link": "",
+            "title": "Acquisitions 2024", 
+            "description": "Here are the biggest enterprise technology acquisitions of 2024 so far, in reverse chronological order."
+        },
+        {
+            "id": 4,
+            "image_link": "",
+            "title": "Noteworthy technology acquisitions 2025", 
+            "description": "Here are the biggest enterprise technology acquisitions of 2025 so far, in reverse chronological order."
+        },
+        {
+            "id": 3,
+            "image_link": "",
+            "title": "Noteworthy technology acquisitions 2026", 
+            "description": "Here are the biggest enterprise technology acquisitions of 2026 so far, in reverse chronological order."
+        },
+        {
+            "id": 2,
+            "image_link": "",
+            "title": "Noteworthy technology acquisitions 2027", 
+            "description": "Here are the biggest enterprise technology acquisitions of 2027 so far, in reverse chronological order."
+        },
+        {
+            "id": 1,
+            "image_link": "",
+            "title": "Noteworthy technology acquisitions 2028", 
+            "description": "Here are the biggest enterprise technology acquisitions of 2028 so far, in reverse chronological order."
+        }
+    ]
+
+}
